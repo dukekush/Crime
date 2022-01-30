@@ -1,0 +1,207 @@
+Country;2015
+ Afghanistan;0.405
+ Albania;0.753
+ Algeria;0.659
+ Andorra;0.718
+ Angola;0.472
+ Antigua and Barbuda;0.654
+ Argentina;0.832
+ Armenia;0.750
+ Australia;0.918
+ Austria;0.861
+ Azerbaijan;0.681
+ Bahamas;0.731
+ Bahrain;0.755
+ Bangladesh;0.479
+ Barbados;0.777
+ Belarus;0.837
+ Belgium;0.890
+ Belize;0.674
+ Benin;0.473
+ Bhutan;0.465
+ Bolivia (Plurinational State of);0.666
+ Bosnia and Herzegovina;0.688
+ Botswana;0.657
+ Brazil;0.677
+ Brunei Darussalam;0.705
+ Bulgaria;0.794
+ Burkina Faso;0.277
+ Burundi;0.424
+ Cabo Verde;0.568
+ Cambodia;0.468
+ Cameroon;0.536
+ Canada;0.880
+ Central African Republic;0.339
+ Chad;0.283
+ Chile;0.791
+ China;0.642
+ Colombia;0.664
+ Comoros;0.471
+ Congo;0.533
+ Congo (Democratic Republic of the);0.478
+ Costa Rica;0.710
+ Croatia;0.802
+ Cuba;0.767
+ Cyprus;0.792
+ Czechia;0.891
+ Côte d'Ivoire;0.404
+ Denmark;0.918
+ Djibouti;0.315
+ Dominica;0.632
+ Dominican Republic;0.652
+ Ecuador;0.717
+ Egypt;0.597
+ El Salvador;0.562
+ Equatorial Guinea;0.440
+ Eritrea;0.279
+ Estonia;0.878
+ Eswatini (Kingdom of);0.537
+ Ethiopia;0.327
+ Fiji;0.762
+ Finland;0.923
+ France;0.812
+ Gabon;0.623
+ Gambia;0.367
+ Georgia;0.831
+ Germany;0.934
+ Ghana;0.538
+ Greece;0.833
+ Grenada;0.754
+ Guatemala;0.512
+ Guinea;0.343
+ Guinea-Bissau;0.398
+ Guyana;0.598
+ Haiti;0.430
+ Honduras;0.479
+ Hong Kong, China (SAR);0.850
+ Hungary;0.823
+ Iceland;0.906
+ India;0.540
+ Indonesia;0.622
+ Iran (Islamic Republic of);0.739
+ Iraq;0.506
+ Ireland;0.910
+ Israel;0.880
+ Italy;0.784
+ Jamaica;0.687
+ Japan;0.839
+ Jordan;0.674
+ Kazakhstan;0.806
+ Kenya;0.534
+ Kiribati;0.583
+ Korea (Republic of);0.866
+ Kuwait;0.623
+ Kyrgyzstan;0.724
+ Lao People's Democratic Republic;0.479
+ Latvia;0.864
+ Lebanon;0.593
+ Lesotho;0.516
+ Liberia;0.415
+ Libya;0.606
+ Liechtenstein;0.818
+ Lithuania;0.883
+ Luxembourg;0.788
+ Madagascar;0.498
+ Malawi;0.457
+ Malaysia;0.713
+ Maldives;0.559
+ Mali;0.274
+ Malta;0.802
+ Marshall Islands;
+ Mauritania;0.385
+ Mauritius;0.721
+ Mexico;0.672
+ Micronesia (Federated States of);0.560
+ Moldova (Republic of);0.709
+ Mongolia;0.752
+ Montenegro;0.792
+ Morocco;0.518
+ Mozambique;0.373
+ Myanmar;0.436
+ Namibia;0.569
+ Nepal;0.509
+ Netherlands;0.906
+ New Zealand;0.914
+ Nicaragua;0.555
+ Niger;0.226
+ Nigeria;0.474
+ North Macedonia;0.689
+ Norway;0.912
+ Oman;0.717
+ Pakistan;0.372
+ Palau;0.845
+ Palestine, State of;0.668
+ Panama;0.681
+ Papua New Guinea;0.429
+ Paraguay;0.635
+ Peru;0.709
+ Philippines;0.665
+ Poland;0.855
+ Portugal;0.767
+ Qatar;0.642
+ Romania;0.767
+ Russian Federation;0.804
+ Rwanda;0.452
+ Saint Kitts and Nevis;0.654
+ Saint Lucia;0.664
+ Saint Vincent and the Grenadines;0.682
+ Samoa;0.698
+ Sao Tome and Principe;0.532
+ Saudi Arabia;0.802
+ Senegal;0.354
+ Serbia;0.766
+ Seychelles;0.717
+ Sierra Leone;0.382
+ Singapore;0.835
+ Slovakia;0.823
+ Slovenia;0.875
+ Solomon Islands;0.468
+ South Africa;0.720
+ South Sudan;0.309
+ Spain;0.827
+ Sri Lanka;0.751
+ Sudan;0.333
+ Suriname;0.658
+ Sweden;0.912
+ Switzerland;0.885
+ Syrian Arab Republic;0.413
+ Tajikistan;0.663
+ Tanzania (United Republic of);0.431
+ Thailand;0.640
+ Timor-Leste;0.497
+ Togo;0.495
+ Tonga;0.772
+ Trinidad and Tobago;0.714
+ Tunisia;0.645
+ Turkey;0.704
+ Turkmenistan;0.628
+ Uganda;0.501
+ Ukraine;0.791
+ United Arab Emirates;0.735
+ United Kingdom;0.911
+ United States;0.893
+ Uruguay;0.743
+ Uzbekistan;0.705
+ Vanuatu;0.544
+ Venezuela (Bolivarian Republic of);0.724
+ Viet Nam;0.619
+ Yemen;0.342
+ Zambia;0.538
+ Zimbabwe;0.560
+Human Development;
+Very high human development;0.851
+High human development;0.654
+Medium human development;0.520
+Low human development;0.409
+Developing Countries;0.575
+Regions;
+Arab States;0.558
+East Asia and the Pacific;0.629
+Europe and Central Asia;0.739
+Latin America and the Caribbean;0.677
+South Asia;0.527
+Sub-Saharan Africa;0.457
+Least Developed Countries;0.419
+Small Island Developing States;0.621
+Organization for Economic Co-operation and Development;0.846
+World;0.626
